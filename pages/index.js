@@ -22,12 +22,12 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a href="https://github.com/z4id" className={styles.card}>
-            <h2>Github <Image src="/github-logo.png" alt="Zaid's Github" width={30} height={30} /> &rarr;</h2>
+            <h2>Github <Image src="https://storage.googleapis.com/zaidafzal.com/static/icons/github-logo.png" alt="Zaid's Github" width={30} height={30} /> &rarr;</h2>
             <p>Checkout my code repositories and contributions</p>
           </a>
 
           <a href="https://www.linkedin.com/in/zaid-afzal" className={styles.card}>
-            <h2>LinkedIn <Image src="/linkedin-logo.png" alt="Zaid's LinkedIn" width={30} height={30} /> &rarr;</h2>
+            <h2>LinkedIn <Image src="https://storage.googleapis.com/zaidafzal.com/static/icons/linkedin-logo.png" alt="Zaid's LinkedIn" width={30} height={30} /> &rarr;</h2>
             <p>See my achievements and skills on LinkedIn</p>
           </a>
 
@@ -35,7 +35,7 @@ export default function Home() {
             href="https://stackoverflow.com/users/10973792/zaid-afzal"
             className={styles.card}
           >
-            <h2>StackOverflow <Image src="/stackoverflow-logo.png" alt="Zaid's StackOverflow" width={30} height={30} /> &rarr;</h2>
+            <h2>StackOverflow <Image src="https://storage.googleapis.com/zaidafzal.com/static/icons/stackoverflow-logo.png" alt="Zaid's StackOverflow" width={30} height={30} /> &rarr;</h2>
             <p>Discover tech related Questions/Answers on SO</p>
           </a>
 
@@ -43,7 +43,7 @@ export default function Home() {
             href="https://twitter.com/z41do"
             className={styles.card}
           >
-            <h2>Twitter <Image src="/twitter-logo.png" alt="Zaid's Twitter" width={30} height={30} /> &rarr;</h2>
+            <h2>Twitter <Image src="https://storage.googleapis.com/zaidafzal.com/static/icons/twitter-logo.png" alt="Zaid's Twitter" width={30} height={30} /> &rarr;</h2>
             <p>
               See what I tweet about in free time
             </p>
@@ -59,7 +59,7 @@ export default function Home() {
         >
           Powered by{' '}
           <span className={styles.logo}>
-            <a href="https://github.com/z4id"><Image src="/github-logo.png" alt="Zaid's Github" width={30} height={30} /></a>
+            <a href="https://github.com/z4id"><Image src="https://storage.googleapis.com/zaidafzal.com/static/icons/github-logo.png" alt="Zaid's Github" width={30} height={30} /></a>
           </span>
         </a>
       </footer>
