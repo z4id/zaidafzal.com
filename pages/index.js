@@ -8,7 +8,7 @@ export default function Home() {
       <Head>
         <title>Zaid Afzal</title>
         <meta name="description" content="Cloud Architect, Software Engineer" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="https://storage.googleapis.com/zaidafzal.com/static/icons/favicon.ico" />
       </Head>
 
       <main className={styles.main}>
