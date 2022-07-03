@@ -7,8 +7,8 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Zaid Afzal</title>
-        <meta name="description" content="Cloud Architect, Software Engineer" />
-        <link rel="icon" href="https://storage.googleapis.com/zaidafzal.com/static/icons/favicon.ico" />
+        <meta name="description" content="Software Engineer | Solutions Architect" />
+        <link rel="icon" href="https://storage.googleapis.com/zaidafzal.com/static/icons/favicon1.ico" />
       </Head>
 
       <main className={styles.main}>
@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Cloud Architect | Software Engineer
+        Software Engineer | Solutions Architect
         </p>
 
         <div className={styles.grid}>
