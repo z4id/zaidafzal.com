@@ -7,7 +7,7 @@ const nextConfig = {
     return [
       {
         source: '/feedback',
-        destination: 'https://docs.google.com/forms/d/1GvOkSRm5fIHzqTfSsbnaDvHwUZcJfJq90OZOSekVJrw',
+        destination: 'https://docs.google.com/forms/d/e/1FAIpQLSfDCBa-9DFyqL7aen0Brmf0xoJcVOC4mqokAklCed6SRzw7Wg/viewform',
         permanent: false
       }
     ];
